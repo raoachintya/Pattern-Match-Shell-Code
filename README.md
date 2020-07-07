@@ -7,5 +7,5 @@ To use it:-
 
 1. Clone the repository.
 2. Go the shell file's diretory.
-3. Then run ./pattern.sh
+3. Then run ./Pattern.sh
 4. Note :- If required change the directory in shell file.
